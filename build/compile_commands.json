@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/y2/Desktop/slam/realsenseslam/build",
+  "command": "/usr/bin/g++  -DELPP_NO_DEFAULT_LOG_FILE -I/usr/include/eigen3 -isystem /usr/local/include/opencv4  -g   -o CMakeFiles/joinMap.dir/src/joinMap.o -c /home/y2/Desktop/slam/realsenseslam/src/joinMap.cpp",
+  "file": "/home/y2/Desktop/slam/realsenseslam/src/joinMap.cpp"
+}
+]
